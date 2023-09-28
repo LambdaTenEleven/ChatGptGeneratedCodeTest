@@ -1,0 +1,112 @@
+# Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.cache
+*.docstates
+
+# Build Folders (you can keep bin and obj if you'd like to store build outputs)
+bin/
+obj/
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# IIS web server folder
+.wwwroot
+
+# Visual Studio 2015, 2017 cache/options directory
+.vs/
+.vscode/
+
+# ReSharper
+_ReSharper*/
+*.resharper.user
+
+# Packages
+*.nupkg
+**/packages/*/
+packer/package_files/*
+
+# TeamCity
+**/.teamcity/*
+
+# Metadata
+*.psess
+*.vsp
+*.vspx
+
+# Test Results
+**/TestResults
+
+# Compiled Object files.
+*.sbr
+*.bak
+*.swp
+*.ncb
+
+# Temporary cache files
+*.aps
+*.ilk
+*.map
+*.obj
+*.tmp
+
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.mcp
+*.pch
+*.pdb
+*.pgc
+*_locl.h
+*.res
+
+# csproj files excluding Rider.Meta.csproj.user
+*.csproj.user
+!Rider.Meta.csproj.user
+*.dbmdl
+*.svclog
+*.compile
+
+# Microsoft Fakes
+FakesAssemblies/
+
+# JetBrains Rider
+.idea/
+*.DotSettings.user
+
+# Ignore nuget exercise packages
+packages/NuGetExercise.*/lib
+
+# === OSX ===
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# === END ===
