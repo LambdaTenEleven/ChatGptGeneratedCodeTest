@@ -25,3 +25,29 @@ I had to move the generated code for Startup.cs to Program.cs to make it usable.
 - Which specific prompts you learned as a good practice to complete the task?
 
 Nothing special.
+
+## Second task
+
+### Description:
+
+Implement a RESTful API for a simple online bookstore using ASP.NET Core and EF. The API should allow users to perform CRUD operations on books, authors, and genres. Books should have a title, author, genre, price, and quantity available. Users should be able to search for books by title, author, or genre. Use EF to persist data to a relational database.
+
+- Was it easy to complete the task using AI?
+
+It was slightly worse because ChatGPT 4 gave broken test code. I had to fix it manually and consult it why the test were failing.
+
+- How long did task take you to complete? (Please be honest, we need it to gather anonymized statistics)
+
+About 2 hours.
+
+- Was the code ready to run after generation? What did you have to change to make it usable?
+
+I had to fix generated test code.
+
+- Which challenges did you face during completion of the task?
+
+It kept giving me broken test code.
+
+- Which specific prompts you learned as a good practice to complete the task?
+
+Nothing special.
